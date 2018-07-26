@@ -7,6 +7,12 @@ How to Install
 ----------
 
 ``` bash
+npm install angular-yamljs
+```
+
+or 
+
+``` bash
 bower install angular-yamljs
 ```
 
